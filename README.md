@@ -20,6 +20,9 @@
 
   ## Usage
   I am using this to learn about templates and different models in the website design
+  
+  ![Screen Shot 2022-06-01 at 11 10 38 PM](https://user-images.githubusercontent.com/95864720/171545606-97b6a636-1516-46bb-bf2c-5c090b8d733a.png)
+
 
   ## License
   ![badge](https://img.shields.io/badge/license-Academic-brightgreen)
