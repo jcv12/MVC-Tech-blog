@@ -27,7 +27,7 @@
   This application is covered by the Academic license.
 
   ## Contributing
-  John/C.Vayianos
+  John.C.Vayianos
 
   ## Tests
   No Tests
